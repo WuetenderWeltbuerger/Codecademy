@@ -1,0 +1,30 @@
+// Write your code below 📼
+
+//WütenderWeltbürger
+
+print(".------------------------.")
+print("|    Ich Hasse    90 min |")
+print("|     __  ______  __     |")
+print("|    (  )|).....|(  )    |")
+print("|    (__)|)_____|(__)    |")
+print("|    ________________    |")
+print("|___/_._o________o_._\\___|")
+
+
+var mixtape = [String]()
+
+mixtape.append("Ich Will - Rammstein")
+mixtape.append("Du Hast - Rammstein")
+mixtape.append("Eiszeit - Eisbrecher")
+mixtape.append("Zwischen Uns - Eisbrecher")
+mixtape.append("Mistuck (2012) - Eisbrecher")
+mixtape.append("Schrei Es In die Winde - Faun")
+mixtape.append("It's My Life - Bon Jovi")
+mixtape.append("Have A Nice Day - Bon Jovi")
+mixtape.append("We're Not Gonna Take It - Twisted Sister")
+mixtape.append("Angry Young Man - Styx")
+
+print(mixtape.count)
+for song in mixtape{
+  print(song)
+}

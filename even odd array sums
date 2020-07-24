@@ -1,0 +1,14 @@
+var list = [2, 4, 3, 6, 1, 9]
+var even = 0
+var odd = 0
+// Write your code below 🧮
+
+for num in list{
+  if num % 2 == 0{
+    even += num
+  }else{
+    odd += num
+  }
+}
+print(even)
+print(odd)
